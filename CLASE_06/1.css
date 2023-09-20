@@ -1,0 +1,15 @@
+#fondo{
+    background-color: bisque;
+}
+
+
+#parrafo{
+    color: blue;
+    text-align: center;
+    font-size: 80px;
+    border-style: dotted;
+}
+
+p{
+    font-size: 100px;
+}
